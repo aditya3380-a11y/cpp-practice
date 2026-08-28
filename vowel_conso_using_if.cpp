@@ -6,7 +6,7 @@ int main() {
     cout << "Please input your character = ";
     cin >> ch;
 
-    if (ch =='a'||ch =='A',ch =='e'||ch =='E',ch =='I'||ch =='i',ch =='O'||ch =='o',ch =='U'||ch =='u' )
+    if (ch =='a'||ch =='A'||ch =='e'||ch =='E'||ch =='I'||ch =='i'||ch =='O'||ch =='o'||ch =='U'||ch =='u' )
     {
         cout << "Given input is vowel = " << ch << "\n";
     }else
