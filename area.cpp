@@ -12,3 +12,4 @@ int main() {
     cout << " area ="<< area << " and perimeter is " << perimeter << "\n";
     return 0;
 }
+// just some pratice
